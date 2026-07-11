@@ -45,13 +45,13 @@ pedra-papel-tesoura/
 Clone o repositório:
 
 ```bash
-git clone https://github.com/lucineindesouza-creator/pedra-papel-tesoura.git
+git clone https://github.com/lucineindesouza-creator/python-pedra-papel-tesoura.git
 ```
 
 Acesse a pasta do projeto:
 
 ```bash
-cd pedra-papel-tesoura
+cd python-pedra-papel-tesoura
 ```
 
 Execute o programa:
